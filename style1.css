@@ -1,7 +1,23 @@
-h1{
-    color: rgb(46, 41, 41);
-    text-align: center;
+img{
+    border-radius:10px;
 }
-
-
-
+h1{
+    color:palevioletred;
+    margin: 25px;
+}
+.main{
+    height:100px;
+    justify-content:center;
+    display:flex;
+    font-size: x-large;
+}
+h2{
+    color:blueviolet;
+}
+h4{
+    color: red;
+}
+img{
+    max-height: 10%;
+    max-width: 20%;
+}
