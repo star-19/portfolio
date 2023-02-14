@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style1.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+   
+</head>
+ <body>
+    <div class="main">
+      <div class="sub">
+       <a href="">HOME</a>&nbsp;&nbsp;&nbsp;
+       <a href="contact.html">CONTACT</a>&nbsp;&nbsp;&nbsp;
+      </div>
+      </div>
+        <div>
+          <h1>Hi...... its me</h1>
+          <h2>About Me</h2>
+          <p>I am Surya Krishnan. Studying MCA at MACFAST College Thiruvalla.
+            My Hometown is in Chengannur.
+            I am passionate about my studies and I curious to learn about new technologies.
+          <img src="./pic.jpg"alt="">
+          <h2>Academic Details</h2>
+          <h4>Bachelor of Physics</h4>
+              <h5>2017-2020</h5>
+              <p><em> D B Pampa College, Parumala</em></p>
+              <p> MG University.</p>
+              <h4>Master of Computer Applications.</h4>
+              <h5>2021-2023</h5>
+              <p><em>Mar Athanasios College For Advanced Studies Thiruvalla.</em></p
+                <p> MG University.</p>
+        </div>
+        </body>
+        </html>
+   
